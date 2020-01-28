@@ -10,7 +10,6 @@ public class Test   {
 				 try {
 						System.out.println("Starting of try block");
 						System.out.println("Added a lline for building");
-						test();
 					
 				 }	catch(Exception exp){
 						System.out.println("Catch Block") ;
