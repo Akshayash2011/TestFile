@@ -9,7 +9,6 @@ public class Test   {
 			 public static void main(String[] args) {
 				 try {
 						System.out.println("Starting of try block");
-					System.out.println("Mine");
 				 }	catch(Exception exp){
 						System.out.println("Catch Block") ;
 						System.out.println(exp) ;
