@@ -9,7 +9,7 @@ public class Test   {
 			 public static void main(String[] args) {
 				 try {
 						System.out.println("Starting of try block");
-						// I'm throwing the custom exception using throw
+						System.out.println("Added a lline for building");
 						test();
 					
 				 }	catch(Exception exp){
